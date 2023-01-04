@@ -163,6 +163,11 @@
     /* box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important; */
 }
 
+body {
+    border: solid red 2px;
+    border-radius: 20px;
+}
+
 .TridactylStatusIndicator {
     position: fixed !important;
     bottom: 0 !important;
