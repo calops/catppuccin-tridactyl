@@ -159,13 +159,9 @@
     left: 10% !important;
     z-index: 2147483647 !important;
     width: 80% !important;
-    border: solid red 2px;
-    /* box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important; */
-}
-
-body {
-    border: solid red 2px;
+    border: solid red 20px;
     border-radius: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important; */
 }
 
 .TridactylStatusIndicator {
