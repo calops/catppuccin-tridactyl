@@ -103,7 +103,7 @@
 }
 
 #completions .HistoryCompletionSource table {
-    width: 100%;
+    /* width: 100%; */
     font-size: 9pt;
     border-spacing: 0;
     table-layout: fixed;
