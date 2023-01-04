@@ -164,8 +164,7 @@
     left: 10% !important;
     z-index: 2147483647 !important;
     width: 80% !important;
-    border: solid red 20px;
-    border-radius: 20px;
+    padding: 25px;
 }
 
 .TridactylStatusIndicator {
