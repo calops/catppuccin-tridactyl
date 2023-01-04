@@ -48,7 +48,7 @@
     order: 1;
     border: 2px solid var(--mauve);
     border-radius: 20px;
-    background: var(--tridactyl-bg);
+    background: unset;
 }
 
 #tridactyl-input {
