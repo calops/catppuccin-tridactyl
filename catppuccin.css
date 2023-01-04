@@ -47,7 +47,7 @@
 #command-line-holder {
     order: 1;
     border: 2px solid var(--mauve);
-    border-radius: 15px;
+    border-radius: 10px;
     background: var(--tridactyl-bg);
 }
 
@@ -92,7 +92,7 @@
     order: 2;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important;
     border: solid 2px var(--peach);
-    border-radius: 15px;
+    border-radius: 10px;
     margin-top: 15px;
 }
 
@@ -164,7 +164,7 @@
     left: 10% !important;
     z-index: 2147483647 !important;
     width: 80% !important;
-    padding: 25px;
+    padding: 25px !important;
 }
 
 .TridactylStatusIndicator {
