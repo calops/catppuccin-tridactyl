@@ -139,7 +139,10 @@
 }
 
 #completions table tr td {
-  padding: .5rem 0;
+    padding: .5rem 0;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important;
+    border: solid 2px var(--peach);
+    margin-top: 15px;
 }
 
 #completions .sectionHeader {
@@ -149,9 +152,6 @@
     padding-left: unset;
     padding-bottom: 0.2rem;
     color: var(--peach);
-    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important;
-    border: solid 2px var(--peach);
-    margin-top: 15px;
 }
 
 #cmdline_iframe {
