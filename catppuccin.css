@@ -87,7 +87,7 @@
     font-size: unset;
     font-weight: 200;
     overflow: hidden;
-    width: 100%;
+    width: 90%;
     border-top: unset;
     order: 2;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important;
@@ -103,7 +103,7 @@
 }
 
 #completions .HistoryCompletionSource table {
-    /* width: 100%; */
+    width: 100%;
     font-size: 9pt;
     border-spacing: 0;
     table-layout: fixed;
