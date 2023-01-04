@@ -47,8 +47,7 @@
 #command-line-holder {
     order: 1;
     border: 2px solid var(--mauve);
-    border-radius: 20px;
-    background: unset;
+    background: var(--tridactyl-bg);
 }
 
 #tridactyl-input {
@@ -60,7 +59,6 @@
     background: var(--tridactyl-bg);
     padding-left: unset;
     padding: 1rem;
-    border-radius: 20px;
 }
 
 #completions table {
@@ -71,7 +69,6 @@
     padding: 1rem 0;
     /* padding-top: 1rem; */
     /* padding-bottom: 1rem; */
-    border-radius: 20px;
 }
 
 #completions > div {
@@ -161,7 +158,6 @@
     left: 10% !important;
     z-index: 2147483647 !important;
     width: 80% !important;
-    border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important;
 }
 
