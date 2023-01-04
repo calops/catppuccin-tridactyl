@@ -46,7 +46,8 @@
 
 #command-line-holder {
     order: 1;
-    border: 2px solid var(--lavender);
+    border: 2px solid var(--mauve);
+    border-radius: 7px;
     background: var(--tridactyl-bg);
 }
 
