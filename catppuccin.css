@@ -44,10 +44,17 @@
     --tridactyl-hint-outline: none;
 }
 
+body {
+    gap: 12px;
+}
+
 #command-line-holder {
     order: 1;
     border: 2px solid var(--mauve);
     border-radius: 10px;
+    width: 90%;
+    left: 5%;
+    position: relative;
     background: var(--tridactyl-bg);
 }
 
@@ -88,9 +95,9 @@
     font-weight: 200;
     overflow: hidden;
     width: 90%;
-    border-top: unset;
+    left: 5%;
+    position: relative;
     order: 2;
-    /* box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px !important; */
     border: solid 2px var(--peach);
     border-radius: 10px;
     margin-top: 15px;
